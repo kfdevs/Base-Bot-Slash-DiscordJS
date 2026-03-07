@@ -45,3 +45,9 @@ Start the source
 - [@taleskf](https://github.com/taleskf)
 - [@edukf](https://github.com/edukf)
 
+
+## K.F Group
+
+Quer um bot, site ou sistema privado e totalmente personalizado? Entre em contato conosco.
+
+- https://discord.gg/ysVR9Q2xFK
