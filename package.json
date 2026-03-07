@@ -1,0 +1,17 @@
+{
+  "name": "base-bot-slash-kf",
+  "version": "1.0.0",
+  "description": "Simple base for a discord bot with slash commands, made by K.F Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "K.F Group",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "discord.js": "^14.21.0",
+    "glob": "^11.0.3"
+  }
+}
