@@ -18,13 +18,13 @@ Base modular para bots Discord com carregamento automático de comandos e evento
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/kfdevs/Base-Bot-Slash-DiscordJS
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Base-Bot-Slash-DiscordJS
 ```
 
 Install dependencies
